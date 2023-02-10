@@ -1,3 +1,3 @@
-# Supervised Learning
-Comparative analysis between Decision Tree and Naive Bayes model for classification 
+# DMML Assignments
 
+My repo for all my DMML Jan 2023 assignments.
